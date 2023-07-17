@@ -1,36 +1,26 @@
-### Hi 👋 My name is Chuai Mateng (MEEN)
-
-## ICT PSU STUDENT
-
-I've been learning React.js 
-
-- 🌍  I'm based in Hatyai, Thailand
-- 🖥️  See my portfolio at My Port (**future**)
-
-**JACKICT16/JackICT16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **PSU**
-- 🌱 I’m currently learning **Flutter** **React**
-- 👯 I’m looking to collaborate on **PSU**
-- 🤔 I’m looking for help with **a project for bachelor's degree**
-- 💬 Ask me about **How to use GITHUB**
-- 📫 How to reach me: **6310210659code@gmail.com**
-- ⚡ Fun fact: ยังไม่รู้
-
-> **Note:** ความคาดหวังคือการเสี่ยงต่อความเจ็บปวด
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chuai Mateng
 ====================================================================================================================================
 
-Student
+ICT PSU STUDENT
 -------
 
 I've been learning React.js for 6 years
 
 * 🌍  I'm based in Hatyai, Thailand
+* 🖥️  See my portfolio at My Port (**future**)
 * ✉️  You can contact me at [6310210659code@gmail.com](mailto:6310210659code@gmail.com)
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on *PSU**
+- 🌱 I’m currently learning **Flutter** *React**
+- 👯 I’m looking to collaborate on *PSU**
+- 🤔 I’m looking for help with *a project for bachelor's degree**
+- 💬 Ask me about *How to use GITHUB**
+- 📫 How to reach me: *6310210659psu@gmail.com**
+- ⚡ Fun fact: ยังไม่รู้
+
+> **Note:** ความคาดหวังคือการเสี่ยงต่อความเจ็บปวด
 
 <a href="https://www.twitter.com/MaXayb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MaXayb?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"
