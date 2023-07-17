@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **How to use GITHUB**
 - 📫 How to reach me: **6310210659code@gmail.com**
 - ⚡ Fun fact: ยังไม่รู้
-- 
+
 > **Note:** ความคาดหวังคือการเสี่ยงต่อความเจ็บปวด
 
 <!--
