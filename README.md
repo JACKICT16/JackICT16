@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 My name is Chuai Mateng (MEEN)
 
 <!--
 **JACKICT16/JackICT16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
