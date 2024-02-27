@@ -8,7 +8,7 @@ I've been learning React.js for 6 years
 
 * 🌍  I'm based in Hatyai, Thailand
 * 🖥️  See my portfolio at My Port (**future**)
-* ✉️  You can contact me at [6310210659code@gmail.com](mailto:6310210659code@gmail.com)
+* ✉️  You can contact me at [chuai.mat@gmail.com](mailto:chuai.mat@gmail.com)
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on *PSU**
 - 🤔 I’m looking for help with *a project for bachelor's degree**
 - 💬 Ask me about *How to use GITHUB**
-- 📫 How to reach me: *6310210659psu@gmail.com**
+- 📫 How to reach me: *chuai.mat@gmail.com**
 - ⚡ Fun fact: ยังไม่รู้
 
 > **Note:** ความคาดหวังคือการเสี่ยงต่อความเจ็บปวด
